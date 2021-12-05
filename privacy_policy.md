@@ -137,8 +137,6 @@ If you are under 18 years of age, reside in California, and have a registered ac
 In Short:  Yes, we will update this notice as necessary to stay compliant with relevant laws.
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-If you have questions or comments about this notice, you may email us at nightapp@gmail.com or by post to:
-NightApp
-Greece
+If you have questions or comments about this notice, you may email us at nightapp@gmail.com 
 15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please send an email to: nightapp@gmail.com
